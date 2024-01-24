@@ -4,5 +4,7 @@ In order to do this please copy the following code into your R Console:
 
 
 install.packages("tidyverse")
+
 install.packages("devtools")
+
 devtools::install_github("tidyverse/dsbox")
